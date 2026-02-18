@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: arathikrishnam/flask-app:TAG_PLACEHOLDER
+        image: arathikrishnam/flask-app:dda678f26c769a0eaf470a4844c8d7027e7b116d
         ports:
         - containerPort: 5000
